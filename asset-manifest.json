@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://asitkr.github.io/csb-o49wiy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://asitkr.github.io/csb-o49wiy/static/js/main.a21ae2e1.chunk.js",
+    "main.js.map": "https://asitkr.github.io/csb-o49wiy/static/js/main.a21ae2e1.chunk.js.map",
+    "runtime-main.js": "https://asitkr.github.io/csb-o49wiy/static/js/runtime-main.d3ca759e.js",
+    "runtime-main.js.map": "https://asitkr.github.io/csb-o49wiy/static/js/runtime-main.d3ca759e.js.map",
+    "static/js/2.f0e060a2.chunk.js": "https://asitkr.github.io/csb-o49wiy/static/js/2.f0e060a2.chunk.js",
+    "static/js/2.f0e060a2.chunk.js.map": "https://asitkr.github.io/csb-o49wiy/static/js/2.f0e060a2.chunk.js.map",
+    "index.html": "https://asitkr.github.io/csb-o49wiy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://asitkr.github.io/csb-o49wiy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f0e060a2.chunk.js.LICENSE.txt": "https://asitkr.github.io/csb-o49wiy/static/js/2.f0e060a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3ca759e.js",
+    "static/js/2.f0e060a2.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a21ae2e1.chunk.js"
+  ]
+}
